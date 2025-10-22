@@ -16,3 +16,5 @@ Optimal Residuals and the Dahlquist Test Problem (with C. Yalçın Kaya and Robe
 https://link.springer.com/content/pdf/10.1007/s11075-018-0624-x.pdf
 (that last is also on arXiv at https://arxiv.org/pdf/1805.10976 )
 
+Minimizing Residuals in ODE Integration Using Optimal Control (with C. Yalçın Kaya)
+in the subdirectory MinimalResiduals
