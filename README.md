@@ -1,4 +1,4 @@
-# Leaky-Bucket
+# OptimalResiduals (was: Leaky-Bucket)
 Code for the paper "Variations on a theme of Euler" (written with Julia Jankowski) in SIREV 2016 and related papers
 
 The paper can be found at https://epubs.siam.org/doi/10.1137/15M1032351
